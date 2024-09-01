@@ -4,6 +4,8 @@ Company : CODTECH IT SOLUTIONS
 
 ID : CT08DS7348
 
+Mentor name : MUZAMMIL AHMED
+
 Domain : Power BI
 
 Duration : August 20th - September 20th
