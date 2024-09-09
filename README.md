@@ -26,3 +26,11 @@ This repository contains a Power BI dashboard for Financial Analysis.
 ## Data Sources
 
 - Financial Analysis dataset from an Excel file
+
+## Task Overview
+
+The dashboard you provided is a Financial Analysis Dashboard created in Power BI. It provides a comprehensive overview of various financial metrics and performance indicators.
+
+- The dashboard provides a comprehensive overview of financial performance.
+- You can easily analyze revenue trends, identify top-performing regions and products, and assess sales representative performance.
+- The filters allow you to drill down into specific data points and gain more granular insights.
